@@ -1,0 +1,4 @@
+<h1>Description about Project</h1>
+<p>This file is added to reflect a brief description about using github for project management. These features which we are experiencing now using github for project management are really incredible so that these help the users to manage and organize within specified time .</p>
+<p>The feature milestone helps us keep a track of the progress and the tasks that need concentration to complete within deadline with a collaborative team.</p>
+<p>The major challenge I faced is to create project Board but later on with the IA session everything became so transparent and easily understandable.</p>
